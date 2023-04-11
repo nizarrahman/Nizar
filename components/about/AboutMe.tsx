@@ -8,32 +8,32 @@ const AboutMe = () => {
         </Link>
       </h2>
       <p>
-        Hello, my name is <b>Anvaqta Tangguh Wisesa</b>, you can call me{" "}
-        <b>Wisesa</b> or <b>Esa</b> for short. If you&apos;re my school/college
-        friend you maybe know me as <b>Vaq</b> or <b>Anvaq</b>.
+        Hello, my name is <b>Nizar Rahman Fadillah</b>, you can call me{" "}
+        <b>Nizar</b> or <b>Jar</b> for short. If you&apos;re my school/college
+        friend you maybe know me as <b>Vaq</b> or <b>Nizar</b>.
       </p>
       <p>
         I grew up in a small village located in{" "}
         <Link
           className="underline"
           isExternal
-          href="https://www.google.com/search?q=grobogan+jawa+tengah"
+          href="https://www.google.com/search?q=Cianjur+jawa+barat"
         >
-          Grobogan, Jawa Tengah
+          Cianjur, Jawa Jawa Barat
         </Link>
-        . Graduated from{" "}
+        . Student from{" "}
         <Link
           className="underline"
           isExternal
-          href="https://telkomuniversity.ac.id/"
+          href="https://smkpasundan2cianjur.sch.id"
         >
-          Telkom University
+          Smk Pasundan 2 Cianjur
         </Link>{" "}
-        with a Bachelor&apos;s degree in Informatics (Computer science) and
+        majored in software engineering (Rpl) and
         currently working as a <i>Software Engineer - Web Platform</i> (you
         maybe more familiar with &quot;Front-end engineer&quot;) at{" "}
-        <Link className="underline" href="https://www.tokopedia.com" isExternal>
-          Tokopedia
+        <Link className="underline" href="https://invoiceku.id" isExternal>
+          Invoiceku.id
         </Link>
         . I was previously working as a Software engineer at a start-up called{" "}
         <Link className="underline" href="https://ketringan.com" isExternal>

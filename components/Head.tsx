@@ -21,7 +21,7 @@ const Head = ({
       description={description}
       openGraph={{
         site_name: "Nizar Rahman",
-        title: `${title} · Nizar Rahman`,
+        title: `${title} · Nizar`,
         description,
         url: config.baseUrl + (router.asPath || ""),
         images: images

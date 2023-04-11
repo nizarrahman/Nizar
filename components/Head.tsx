@@ -20,8 +20,8 @@ const Head = ({
       title={title}
       description={description}
       openGraph={{
-        site_name: "Wisesa.dev",
-        title: `${title} · Wisesa.dev`,
+        site_name: "Nizar Rahman",
+        title: `${title} · Nizar Rahman`,
         description,
         url: config.baseUrl + (router.asPath || ""),
         images: images
